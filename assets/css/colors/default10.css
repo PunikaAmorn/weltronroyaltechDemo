@@ -1,0 +1,601 @@
+/*=========================================
+    Primary Color
+=========================================*/
+
+/* 00. Theme Reset Css */
+.section-header h2 {
+    color: #16255e;
+}
+
+.section-header h2:after {
+    background: #16255e;    
+}
+
+.boxed-btn {
+    background: #16255e;    
+}
+
+.boxed-btn:hover {
+    color: #16255e;    
+}
+
+/* 02. Header Top */
+#header-top {
+    background: #16255e;    
+}
+
+/* 03. Custom Navigation */
+.main-menu ul li.active a,
+.main-menu ul li a:hover {
+    color: #16255e !important;
+}
+
+.main-menu ul li ul li:hover:before {
+    color: #16255e;
+}
+
+.main-menu ul li.active ul li a:hover { 
+    color: #16255e !important;
+}
+
+.main-menu ul li a:after,
+.main-menu ul li a:before {
+    border-color: #16255e !important;
+}
+
+
+.mean-container a.meanmenu-reveal {
+    border-color: #16255e;
+    color: #16255e;
+}
+
+.mean-container a.meanmenu-reveal span {
+    background-color: #16255e;
+}
+
+.mean-container .mean-nav {
+    background: #16255e;    
+}
+
+.search-button a {
+    color: #16255e;
+}
+
+a.book-now {
+    border-color; #16255e;
+    color: #16255e;    
+}
+
+a.book-now:hover {
+    background: #16255e;
+}
+
+.search-button a.nav-link {
+    color: #16255e;
+}
+
+#search {
+    background: #16255e;    
+}
+
+.badge {
+    background: #16255e;    
+}
+
+.cart-icon i {
+    color: #16255e;
+}
+
+ul.cart-list>li>p>a {
+    color: #16255e;
+}
+
+ul.cart-list>li.total>.btn-cart {
+    border-color: #16255e;
+    background: #16255e;
+}
+
+ul.cart-list>li.total>.btn-cart:hover {
+    color: #16255e;
+}
+
+/* Header slider */
+.header-slider .owl-next,
+.header-slider .owl-prev {
+    color: #16255e;   
+	background: url(../../img/owlbtn-10.png) no-repeat;
+}
+.header-slider .owl-next:hover,
+.header-slider .owl-prev:hover {
+    background: url(../../img/owlbtn-hover-10.png) no-repeat;
+}
+
+/* 05. Features */
+
+.features-list-item .icon i {
+    color: #16255e;
+}
+
+.view-more {
+    color: #16255e;
+}
+
+/* 06. Portfolio */
+.sorting-btn {
+    border-bottom-color: #16255e !important;
+}
+
+.sorting-btn li a.active {
+    color: #16255e;
+}
+
+.portfolio-masonary figure:hover figcaption  {
+    background: #16255e;
+}
+
+/* 07. Features */
+.features-item:before {    
+    background: #16255e;
+}
+
+.features-item:hover i {
+    color: #16255e;
+}
+
+/* 08. Services */
+.service-icon i {
+    color: #16255e;
+}
+
+.services-item .service-icon:after {
+    background: #16255e;    
+}
+
+.services-item:hover h4 {
+    color: #16255e;
+}
+
+/* 10. Fun Fact*/
+#fun-fact i {
+    color: #16255e;
+}
+
+.member-social li a {
+    color: #16255e;
+}
+
+.member-title:after {
+    background: #16255e;    
+}
+
+.member-title:before {
+    border-bottom-color: #16255e !important;
+}
+
+.team-member:hover .member-title h4 {
+    color: #16255e;
+}
+
+.inner-bio  {
+    background-color: #16255e;
+}
+
+/* Testimonial */
+#testimonial .owl-dot.active {
+    background: #16255e !important;
+}
+
+.single-testimonial h4 {
+    color: #16255e;
+}
+
+.single-testimonial h4:after {
+    background: #16255e;    
+}
+
+
+/* Pricing */
+#pricing .features li i {
+    color: #16255e;
+}
+
+/* Recent Blog */
+#recent-blog .post-thumbnail:after {
+    background: #16255e;    
+}
+
+#recent-blog .blog-post:hover .read-more-link,
+.blog-post:hover .post-content .post-title a {
+    color: #16255e;
+}
+
+/* Contact Us*/
+.contact-us-info h3:after {
+    background: #16255e;    
+}
+
+.live-chat.boxed-btn:hover {
+    background: #16255e;
+    border-color: #16255e;
+}
+
+.get-in-touch h3 {
+    color: #16255e;
+}
+
+.get-in-touch input,
+.get-in-touch textarea {
+    border-color: #16255e;
+}
+
+.get-in-touch .form-control:focus {
+    border-bottom-color: #16255e !important;
+}
+
+#footer-copyright {
+    background: #16255e;
+}
+
+.scrollup {
+    background-color: #16255e;
+    border-color: #16255e;
+
+}
+
+.scrollup:hover {
+    color: #16255e;
+    border-color: #16255e;
+}
+
+/*------------------------
+    About US page 
+ -------------------------*/
+.breadcrumb-nav li a {
+    color: #16255e;
+}
+
+#about-us .section-header:before {
+    background: #16255e;
+}
+
+.progress-bar {
+    background: #16255e;
+}
+
+a.view-details:hover {
+    color: #16255e;
+}
+
+
+/*------------------------
+    Service page 
+-------------------------*/
+.servicepage-item .service-icon i {
+    color: #16255e;
+}
+
+.servicepage-item a {
+    color: #16255e;
+}
+
+/*------------------------
+    Portfolio
+-------------------------*/
+
+.portfolio-item:hover .content h4,
+.portfolio-item:hover .content a {
+    color: #16255e;
+}
+
+.portfolio-item:hover figcaption {
+    background: #16255e;
+}
+
+.pagination li.page-item.more-page a.page-link,
+.pagination li.page-item.active a.page-link,
+.pagination a.page-link:hover {
+    background: #16255e;
+}
+
+.single-exclusive:hover h5,
+.single-exclusive:hover i {
+    color: #16255e;
+}
+
+#exclusive .owl-dot.active {
+    background: #16255e;
+}
+
+/* Gallery */
+.gallery-popup:hover {
+    color: #16255e;
+}
+
+.load-btn {    
+    background: #16255e;
+}
+
+/*------------------------
+    Blog
+-------------------------*/
+.blog-post:hover h4.post-title a {
+    color: #16255e !important;
+}
+
+.post-content .continue-reading:hover {
+    color: #16255e !important;
+}
+
+#blog-content ul.meta-info li:hover i,
+#blog-content ul.meta-info li a:hover {
+    color: #16255e;
+}
+
+.blog-post .post-thumb {
+    background: #16255e;    
+}
+
+.post-new-comment input,
+.post-new-comment textarea {
+    border-color: #16255e;
+}
+
+.single-blog-area ul.share-icon li a:hover {
+    color: #16255e;
+}
+
+/*------------------------
+    Contact US
+-------------------------*/
+.office .icon {
+    color: #16255e;
+}
+
+ul.contact-social li a {
+    color: #16255e;
+}
+
+/* Widget Color */
+
+.widget_about a:hover {
+    color: #16255e;
+}
+
+.widget_pages ul li a:hover {
+    color: #16255e;
+}
+
+.widget-search input[type=button] {
+    background: #16255e;
+}
+
+.widget-categories ul li a:hover {
+    color: #16255e;
+}
+
+.recent-post h6:hover {
+    color: #16255e;
+}
+
+ul.recent-meta-info li a:hover {
+    color: #16255e;
+}
+
+.days li .active {
+    color: #16255e;
+    border-color: #16255e;
+}
+
+.widget-newsletter .subscribe {
+    color: #16255e;
+    border-color: #16255e;
+}
+
+.widget-newsletter .subscribe:hover {
+    background: #16255e;
+}
+
+
+ul.widget-social li a:hover {
+    color: #16255e;
+}
+
+ul.tags li a:hover {    
+    background: #16255e;
+}
+
+
+/*=========================================
+    Secondary Color
+=========================================*/
+/* Theme Reset css */
+p {
+    color: #233049;
+}
+
+.section-header p {
+    color: #233049;
+}
+
+/* Main Menu*/
+.mean-container .mean-nav ul li a.mean-expand:hover {
+    background: #233049;
+}
+
+ul.cart-list>li.total {
+    background-color: #233049;
+}
+
+/* Sections */
+.call-out:after,
+#fun-fact:after,
+#subscribe:after,
+#pricing .features:after,
+.video-section:after,
+.skill-item:after  {
+    background: #233049;    
+}
+
+
+/* Features list*/
+.features-list-item h4 {
+    color: #233049;
+}
+
+.view-more:hover {
+    color: #233049;
+}
+
+.sorting-btn li a {
+    color: #233049;
+}
+
+.services-item {    
+    color: #233049;
+}
+
+.member-title {
+    color: #233049;
+}
+
+#testimonial .owl-dot {
+    background: #233049;    
+}
+
+.single-testimonial {
+    background: #233049; 
+}
+
+#pricing .prcing-head {
+    background: #233049;
+}
+
+#pricing .price {
+    color: #233049;    
+}
+
+#recent-blog .read-more-link {
+    color: #233049;    
+}
+
+.contact-us-info {
+    background: #233049;    
+}
+
+/* Service Page */
+.servicepage-item h4 {
+    color: #233049;
+}
+
+.servicepage-item p {
+    color: #233049;
+}
+
+.servicepage-item a:hover {
+    color: #233049;
+}
+
+/* Portfolio */
+.portfolio-page .content h4 {
+    color: #233049;
+}
+
+.portfolio-page .content a {
+    color: #233049;
+}
+
+.pagination a.page-link {
+    background: #233049;
+}
+
+.exclusive-content h5 {
+    color: #233049;
+}
+
+.exclusive-content i {
+    color: #233049;
+}
+
+#exclusive .owl-dot {
+    background: #233049;
+}
+
+.gallery-item figure:hover figcaption {
+    background: #233049;
+}
+
+#blog-content .post-title a {
+    color: #233049;
+}
+
+#blog-content ul.meta-info li {
+    color: #233049;
+}
+
+#blog-content ul.meta-info li a {
+    color: #233049;
+}
+
+.post-content .content {
+    color: #233049;
+}
+
+#blog-content .post-content .continue-reading {
+    color: #233049;
+}
+
+.single-blog-area .post-title {
+    color: #233049;
+}
+
+.single-blog-area ul.share-icon li a {
+    color: #233049;
+}
+
+.post-comment-area .comment-author a {
+    color: #233049;
+}
+
+.office h4 {
+    color: #233049;
+}
+
+.office ul li {
+    color: #233049;
+}
+
+#wrapper-404 .inner-content h1 {
+    color: #233049;
+}
+
+#wrapper-404 .inner-content p {
+    color: #233049;
+}
+
+/*Widget CSS */
+
+#footer-widgets,
+.widget-search input[type=button]:hover {
+    background: #233049;
+}
+
+.widget-search .search-form,
+.search-form input[type="search"]::-webkit-input-placeholder,
+#blog-content .widget-title,
+.widget-categories ul li a,
+.recent-post h6,
+ul.recent-meta-info li,
+ul.recent-meta-info li a,
+ul.tags li a,
+.widget-calender .widget-title .plus a,
+.weekdays li,
+.days li.disable,
+.days li {
+    color: #233049;
+
+}
+
+.get-in-touch input::-webkit-input-placeholder,
+.get-in-touch textarea::-webkit-input-placeholder {
+  color: #233049;    
+}
